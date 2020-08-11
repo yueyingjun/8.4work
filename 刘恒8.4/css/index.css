@@ -1,0 +1,162 @@
+.nav{
+	height: 80px;
+	line-height: 80px;
+}
+.nav li{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: black;
+	font-size: 16px;
+}
+.nav-phone{
+    color: #F08300!important;
+    font-size: 20px!important;
+}
+.nav-btn{
+	width: 120px;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    float: right;
+    text-align: center;
+    border: 0px;
+}
+.nav-btn-1{
+    background: #0fb494;
+}
+.nav-btn-2{
+	color: #0fb494;
+	background: white;
+	border: 1px solid #0fb494;
+}
+
+.floor-one-left{
+	float: left;
+	width: 35%;
+	height: 500px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+.floor-one-left-h3{
+	color: #0eb493;
+	font-size: 40px;
+	margin-top: 80px;
+}
+.floor-one-left-p{
+	font-size: 18px;
+	margin-top: 40px;
+}
+.floor-one-left-a{
+	display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+    background: #0eb493;
+    text-align: center;
+    padding: 0px 35px;
+    margin-top: 40px;
+    border-radius: 50px;
+    font-size: 28px;
+}
+
+.floor-two{
+	padding-top: 70px;
+	height: 550px;
+	background-color: rgb(247,247,247);
+	text-align: center;
+}
+.floor-two-title{
+	color: #0eb493;
+	font-size: 50px;
+}
+.floor-two-title2{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+.floor-two-image-title div{
+	float: left;
+	margin-right: 50px;
+}
+.title1{
+	margin-left: 20%;
+	width: 240px;
+}
+.title2{
+	margin-left: 50px;
+	width: 240px;
+}
+.title3{
+	width: 400px;
+	margin-left: 50px;
+}
+.floor-three{
+	height: 550px;
+}
+.floor-three-left{
+	float: left;
+	padding-left: 19.5%;
+}
+.floor-three-left h3{
+	color: #0eb493;
+	font-size: 50px;
+	margin-top: 25%;
+}
+.floor-three-left p{
+	font-size: 18px;
+	margin-top: 20px;
+	width: 600px;
+}
+.floor-three-right img{
+	margin-top: 5%;
+	margin-left: 25px;
+}
+
+.end{
+	height: 400px;
+	background-color: rgb(247,247,247);
+	padding-top: 70px;
+}
+.end li{
+	list-style: none;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-bottom: 10px;
+}
+.end-left{
+	margin-left: 20%;
+}
+.end-left div{
+	float: left;
+}
+.end-list2{
+	margin-top: 60px;
+}
+.end-list2 li{
+	color: black;
+}
+.end-list2 a{
+	text-decoration: none;
+}
+.end-list2 li:hover{
+	color: #0eb493;
+}
+.end-list3{
+	margin-top: 60px;
+}
+
+.end-right{
+	margin-top: 60px;
+	float: right;
+	text-align: right;
+	margin-right: 20%;
+}
+.end-right1{
+	font-size: 20px;
+}
+.end-right-phone{
+	font-size: 40px;
+}
